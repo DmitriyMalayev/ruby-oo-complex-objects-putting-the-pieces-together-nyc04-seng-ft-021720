@@ -38,6 +38,4 @@ class Book
   def turn_page
     @turn_page
   end
-
-
 end
